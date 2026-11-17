@@ -1,0 +1,8 @@
+.idea/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+key.json
+tfplan
